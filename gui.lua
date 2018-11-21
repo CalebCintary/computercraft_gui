@@ -1,7 +1,7 @@
 --------------------------------------------------------------------------------
 -- Computer Craft GUI API by jpossi   (jascha@ja-s.de)                        --
 --  https://github.com/possi/computercraft_gui                                --
---                                                                            --
+--  Used in OS : https://github.com/calebcintary/                             --
 -- Copyright: GPL 2 http://www.gnu.de/documents/gpl-2.0.en.html               --
 --------------------------------------------------------------------------------
 
